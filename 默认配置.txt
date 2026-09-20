@@ -1,0 +1,20 @@
+默认配置
+固件网关：192.168.123.1
+管理页面：http://my.router/
+管理页面：http://192.168.123.1/
+管理账号：admin
+管理密码：admin
+wifi密码：1234567890
+刷机不恢复默认值
+
+老毛子Padavan固件发布
+https://t.me/s/pdcn1
+
+老毛子Padavan固件自助交流群
+https://t.me/pdcn2
+
+老毛子Padavan固件IOS自助交流群
+https://t.me/pdcn3
+
+#一键自动更新固件脚本
+wget --no-check-certificate -O- https://opt.cn2qq.com/opt-script/up.sh > /tmp/up.sh && bash < /tmp/up.sh &
